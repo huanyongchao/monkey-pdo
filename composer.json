@@ -1,5 +1,5 @@
 {
-    "name": "monkey/pdo",
+    "name": "monkeyh/pdo",
     "authors": [
         {
             "name": "郇永超",
@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "MonekyH\\PDO\\": "src/"
+            "Moneky\\PDO\\": "src/"
         }
     }
 }
