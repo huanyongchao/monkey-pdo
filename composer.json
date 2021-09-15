@@ -1,0 +1,15 @@
+{
+    "name": "monkey/pdo",
+    "authors": [
+        {
+            "name": "郇永超",
+            "email": "5422156+yong_chao_ling@user.noreply.gitee.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Moneky\\PDO\\": "src/"
+        }
+    }
+}
