@@ -1,5 +1,7 @@
 {
     "name": "monkeyh/pdo",
+    "description": "PHP PDO class.",
+    "license": "MIT",
     "authors": [
         {
             "name": "郇永超",
